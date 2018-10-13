@@ -27,4 +27,5 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
+_drafts/
 
