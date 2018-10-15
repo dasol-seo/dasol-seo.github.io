@@ -1,18 +1,14 @@
 # main links
 main:
-  - title: "Javascript"
-    url: "/javascript/"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-javascript-navigation:
-  nav: "javascript"
+  - title: "Error Diary"
+    url: "/errorDiary/"
 
-javascript:
-  - title: "Language"
-    url: /language/
+errorDiary-navigation:
+  - title: "Frontend"
+    url: /frontend/
+  - title: "Backend"
+    url: /backend/
+  - title: "Git"
+    url: /git/
+  - title: "Etc"
+    url: /etc/
