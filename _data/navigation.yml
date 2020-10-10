@@ -2,13 +2,10 @@
 main:
   - title: "Error Diary"
     url: "/errorDiary/"
+  - title: "Algorithm"
+    url: "/algorithm"
 
 errorDiary-navigation:
   - title: "Frontend"
     url: /frontend/
-  - title: "Backend"
-    url: /backend/
-  - title: "Git"
-    url: /git/
-  - title: "Etc"
-    url: /etc/
+
