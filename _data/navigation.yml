@@ -9,3 +9,6 @@ errorDiary-navigation:
   - title: "Frontend"
     url: /frontend/
 
+algorithm-navigation:
+  - title: "Recursion"
+    url: /recursion/
