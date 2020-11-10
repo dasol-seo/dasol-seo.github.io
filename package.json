@@ -30,6 +30,6 @@
     "build:js": "npm run uglify && npm run add-banner",
     "start": "jekyll serve --livereload",
     "dev": "jekyll serve --draft",
-    "deploy": "bundle exec jekyll serve"
+    "run-dev": "bundle exec jekyll serve"
   }
 }
