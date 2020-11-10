@@ -29,6 +29,7 @@
       "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify && npm run add-banner",
     "start": "jekyll serve --livereload",
-    "dev": "jekyll serve --draft"
+    "dev": "jekyll serve --draft",
+    "run-dev": "bundle exec jekyll serve"
   }
 }
