@@ -4,6 +4,8 @@ main:
     url: "/errorDiary/"
   - title: "Algorithm"
     url: "/algorithm"
+  - title: "Memo"
+    url: "/memo"
 
 errorDiary-navigation:
   - title: "Frontend"
@@ -12,3 +14,7 @@ errorDiary-navigation:
 algorithm-navigation:
   - title: "Recursion"
     url: /recursion/
+
+memo-navigation:
+  - title: "Javascript"
+    url: /javascript/
