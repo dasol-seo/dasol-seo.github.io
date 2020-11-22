@@ -6,6 +6,8 @@ main:
     url: "/algorithm"
   - title: "Memo"
     url: "/memo"
+  - title: "Comment"
+    url: "/comment"
 
 errorDiary-navigation:
   - title: "Frontend"
