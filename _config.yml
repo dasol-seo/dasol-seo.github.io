@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "dasolseo"
-  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello Javascript"
+  avatar           : "/assets/images/swan.svg"
+  comment          : "Hello World"
   location         : "Somewhere"
   email            :
   links:
