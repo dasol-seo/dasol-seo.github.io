@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "dasolseo"
   avatar           : "/assets/images/swan.svg"
-  bio              : "Hello Javascript"
+  comment          : "Hello World"
   location         : "Somewhere"
   email            :
   links:
