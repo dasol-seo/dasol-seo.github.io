@@ -20,3 +20,5 @@ algorithm-navigation:
 memo-navigation:
   - title: "Javascript"
     url: /javascript/
+  - title: "Git"
+    url: /git/
